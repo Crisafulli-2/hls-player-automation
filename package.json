@@ -1,0 +1,17 @@
+{
+  "name": "hls_player_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.50.0",
+    "shaka-player": "^4.13.0"
+  }
+}
